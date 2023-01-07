@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  font-family: 'Space Mono', monospace;
+  height: 100%;
+  width: 100%;
+  background-color: var(--clr-bg-0);
+  color: var(--clr-text-0);
+}
+
+body {
+  padding-top: env(safe-area-inset-top);
+  padding-right: env(safe-area-inset-right);
+  padding-bottom: env(safe-area-inset-bottom);
+  padding-left: env(safe-area-inset-left);
+}
+
+:root {
+  --clr-bg-0: #180b2e;
+  --clr-bg-1: #006ba6;
+  --clr-text-0: #fcfcfc;
+
+  --radius: 2rem;
+  --anim: all ease-in-out 200ms;
+}
+
+* {
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
+
+svg {
+  height: 1em;
+  display: inline-block;
+  aspect-ratio: 1/1;
+}

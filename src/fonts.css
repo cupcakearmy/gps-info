@@ -1,0 +1,253 @@
+/* Space Mono */
+/*  cyrillic-ext */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/2b80d9191857114935a7ddc8651898ce5c332b4b.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+/*  cyrillic */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/81d14acb9ab7a87e474981a7eddf71ae203f9b7e.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+/*  greek-ext */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/886749ee9261d1c21938d2fc8c6ec6c3b5c3576d.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+/*  greek */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/3a2b22ae668071f27b7ad2bd25942f37d4336b5e.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+/*  vietnamese */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/6393c1457c4d218401f198659ab88ed244671302.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+/*  latin-ext */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/f5f1a3e9a8759b88f30cafc1802d64e7843991de.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+/*  latin */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/a435ca6d3f780680052459c8e4dda1a2ae6097e2.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+/*  cyrillic-ext */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/da609c784b93e13caf638d1f12e37fba790511a7.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+/*  cyrillic */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/31dffb3a079789ed54432fee3bff723f92b36737.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+/*  greek-ext */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/988889b2ffccfc81e6a639d6ce2509b9dc5ffa0c.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+/*  greek */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/6871557a261b4bd326a12b1989b91c4b86896591.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+/*  vietnamese */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/8fdccb510832b50cf7c29969c65cf634b6eecce3.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+/*  latin-ext */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/3a1d609e542107f59aff6b69fb94284b994dfdcb.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+/*  latin */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/862757cd58804ddd5677c3698cc6f660aae08958.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+/*  cyrillic-ext */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/32f2ef7b1afb3cc954f8b24f74c4e43c2ca0949c.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400;
+}
+/*  cyrillic */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/3d7ef8c205a8330e6e26451051c6a5ec269a0de9.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400;
+}
+/*  greek-ext */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/d5158e1297edbc66f3444d7389cea3ee64820094.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400;
+}
+/*  greek */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/2556c5d60452a40ff26729c27365e06e1fc4ba85.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400;
+}
+/*  vietnamese */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/1b0a405616130035d273abf57772350c7fae36a5.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400;
+}
+/*  latin-ext */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/6100259de9ebd81a32ebc0cc609e8553e0f133fa.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400;
+}
+/*  latin */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/7513f6e9ca633ce8ab2b87e45c14853af063936d.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400;
+}
+/*  cyrillic-ext */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/a69f031a7a3da4af8283ad9ad2fd1bedd8d702b9.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+  font-display: swap;
+  font-style: italic;
+  font-weight: 700;
+}
+/*  cyrillic */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/4e7e2952e005602594aa39de76082c4616a1a1f6.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+  font-display: swap;
+  font-style: italic;
+  font-weight: 700;
+}
+/*  greek-ext */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/404a7d631e3ce4d7f23e759e6161fe4dd413ed22.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+  font-display: swap;
+  font-style: italic;
+  font-weight: 700;
+}
+/*  greek */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/15e2e8e1f722cfbf268b579a29dc584bb2997351.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+  font-display: swap;
+  font-style: italic;
+  font-weight: 700;
+}
+/*  vietnamese */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/eff94ba10e75966d058a84922705892d3532b5dc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+  font-display: swap;
+  font-style: italic;
+  font-weight: 700;
+}
+/*  latin-ext */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/2601cce7273ff6fd23fd00ea90e17b67590faf44.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  font-display: swap;
+  font-style: italic;
+  font-weight: 700;
+}
+/*  latin */
+@font-face {
+  font-family: 'Space Mono';
+  src: url(/fonts/0109c765e1b71c2254d207d41ada46e094d77c00.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  font-display: swap;
+  font-style: italic;
+  font-weight: 700;
+}
