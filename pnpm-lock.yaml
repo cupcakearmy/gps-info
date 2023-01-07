@@ -9,6 +9,7 @@ specifiers:
   '@capacitor/geolocation': ^4.1.0
   '@capacitor/ios': ^4.6.1
   '@capacitor/preferences': ^4.0.2
+  '@capacitor/status-bar': ^4.1.1
   '@sveltejs/adapter-auto': ^1.0.0
   '@sveltejs/adapter-static': ^1.0.1
   '@sveltejs/kit': ^1.0.7
@@ -31,6 +32,7 @@ dependencies:
   '@capacitor/geolocation': 4.1.0_@capacitor+core@4.6.1
   '@capacitor/ios': 4.6.1_@capacitor+core@4.6.1
   '@capacitor/preferences': 4.0.2_@capacitor+core@4.6.1
+  '@capacitor/status-bar': 4.1.1_@capacitor+core@4.6.1
 
 devDependencies:
   '@capacitor/cli': 4.6.1
@@ -124,6 +126,14 @@ packages:
 
   /@capacitor/preferences/4.0.2_@capacitor+core@4.6.1:
     resolution: {integrity: sha512-HgcRkMdVHSIV3TeQLZFmCaCeMWQ25wLyZZ7dA2f8Rw81Q1Nroxsi7HxTEGNqrWKSN9PNKBJD8vChr6eB2GNtZg==}
+    peerDependencies:
+      '@capacitor/core': ^4.0.0
+    dependencies:
+      '@capacitor/core': 4.6.1
+    dev: false
+
+  /@capacitor/status-bar/4.1.1_@capacitor+core@4.6.1:
+    resolution: {integrity: sha512-3wosxMD1XuIFz88+c2GdVEHSJV6u7suOeKQjyWf3zf9eFr622Sg+udZqDbC0dtTWXw97BWyCjv3r1EYJw7XnIA==}
     peerDependencies:
       '@capacitor/core': ^4.0.0
     dependencies:
